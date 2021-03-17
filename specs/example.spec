@@ -7,6 +7,8 @@ To execute this specification, run
 
     gauge run specs
 
+Linked to Jira issue THROWAWAY-1
+
 
 * Vowels in English language are "aeiou".
 
